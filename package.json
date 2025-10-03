@@ -1,0 +1,20 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "exercise-01": "node exercises/01-exercise.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macorrea14-dotcom/20251002-introduction-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macorrea14-dotcom/20251002-introduction-javascript/issues"
+  },
+  "homepage": "https://github.com/macorrea14-dotcom/20251002-introduction-javascript#readme"
+}
