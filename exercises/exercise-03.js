@@ -1,10 +1,10 @@
-const rol = ["admin", "user", "guest"];
+const rol = "admin"; //Se debe cambiar el valor de rol para ver diferentes resultados
 
-if (rol.includes("admin")) {
+if (rol === "admin") {
   console.log("Acceso Total");
-} else if (rol.includes("user")) {
+} else if (rol === "user") {
   console.log("Accesso Limitado");
-} else if (rol.includes("guest")) {
+} else if (rol === "guest") {
   console.log("Inicia sesión para continuar");
 } else {
   console.log("Rol no valido");
