@@ -6,4 +6,4 @@ function saludar(nombre = "Visitante") {
   }
 }
 saludar(); //imprime: Hola, Visitante
-//saludar("Ana");         imprime: Hola, Ana
+//saludar("Ana");         //imprime: Hola, Ana

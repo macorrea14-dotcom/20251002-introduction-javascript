@@ -5,5 +5,6 @@ function puedoVotar(edad) {
     return false;
   }
 }
-console.log(puedoVotar(4));
+console.log(puedoVotar(17));
 console.log(puedoVotar(19));
+console.log(puedoVotar(18));

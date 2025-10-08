@@ -1,7 +1,7 @@
 const vocales = (texto) => {
   let contador = 0;
-  for (let letra of texto){
-    if ("aeiou".includes(letra)){
+  for (let palabra of texto){
+    if ("aeiou".includes(palabra)){
         contador++;
     }
   }
